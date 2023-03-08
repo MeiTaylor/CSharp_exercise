@@ -1,0 +1,15 @@
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\bin\Debug\net6.0\homeworkFirst.exe
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\bin\Debug\net6.0\homeworkFirst.deps.json
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\bin\Debug\net6.0\homeworkFirst.runtimeconfig.json
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\bin\Debug\net6.0\homeworkFirst.dll
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\bin\Debug\net6.0\homeworkFirst.pdb
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.csproj.AssemblyReference.cache
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.AssemblyInfoInputs.cache
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.AssemblyInfo.cs
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.csproj.CoreCompileInputs.cache
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.dll
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\refint\homeworkFirst.dll
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.pdb
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\homeworkFirst.genruntimeconfig.cache
+D:\study\CSharp\file\vsCS\test\homeworkFirst\ConsoleApp1\obj\Debug\net6.0\ref\homeworkFirst.dll
